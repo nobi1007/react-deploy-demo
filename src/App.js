@@ -6,7 +6,7 @@ class App extends PureComponent{
   render(){
     return(
       <div>
-        Welcome to deployment buddy!
+        Welcome to deploymen....t!
       </div>
     );
   }
